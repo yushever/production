@@ -14,6 +14,7 @@
     "@types/node": "^20.7.1",
     "@types/webpack": "^5.28.3",
     "@types/webpack-dev-server": "^4.7.2",
+    "mini-css-extract-plugin": "^2.7.6",
     "sass": "^1.68.0",
     "sass-loader": "^13.3.2",
     "ts-loader": "^9.4.4",

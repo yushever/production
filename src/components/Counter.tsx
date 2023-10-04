@@ -1,8 +1,9 @@
-import "./Counter.scss";
+import classes from "./Counter.module.scss";
 
 export const Counter = () => {
   return (
-    <div>
+    <div className={classes.wrapper}>
+      fdfdf
       <button>+</button>
     </div>
   );
